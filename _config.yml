@@ -1,0 +1,11 @@
+# Setup
+name:         WSU Application Development
+tagline:      The Beginning of a Journey
+baseurl:      ""
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
