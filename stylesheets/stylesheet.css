@@ -448,8 +448,8 @@ a:hover {
 }
 
 header {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 36px;
+  padding-bottom: 36px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
@@ -459,7 +459,7 @@ header h1 {
   width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
-  font-size: 63px;
+  font-size: 66px;
   font-weight: normal;
   line-height: 1;
   color: #fff;
